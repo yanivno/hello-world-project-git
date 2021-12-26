@@ -1,3 +1,1 @@
-import math
-
-math.cos(45)
+print("i am a conflict")
