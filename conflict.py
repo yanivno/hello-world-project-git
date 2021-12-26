@@ -1,1 +1,4 @@
-print("i am a conflict")
+def printm(message):
+    print(message)
+
+printm("message yaniv")
